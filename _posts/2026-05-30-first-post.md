@@ -7,7 +7,6 @@ tags:
   - jekyll
   - github-pages
   - 블로그
-toc: true
 toc_label: "목차"
 comments: true
 ---
