@@ -36,4 +36,4 @@ author_profile: true
 개발 이야기, 피드백, 제안이 있으시다면 언제든 연락 주세요!
 
 - **GitHub**: [github.com/durn02](https://github.com/durn02)
-- **Email**: [engus9902@gmail.com]
+- **Email**: engus9902@gmail.com
